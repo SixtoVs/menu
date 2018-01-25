@@ -3,3 +3,8 @@ huevo
 cebolla
 aceite
 sal
+
+
+hay que freir las patatas y despues añadir la cebolla y el huevo
+
+sal
